@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="800px" height="900px" viewBox="0 0 800 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="800px" height="900px" viewBox="0 0 800 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
     <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
     <title>Jims-Kanban-Lanes</title>
     <desc>Created with Sketch.</desc>
@@ -250,9 +250,9 @@
                 <rect stroke="#180AA0" stroke-linejoin="square" fill="url(#linearGradient-9)" fill-rule="evenodd" x="0.5" y="0.5" width="106" height="274" rx="7"></rect>
                 <use stroke="#5D47FA" xlink:href="#path-14"></use>
             </g>
-            <text id="PR-Merge" font-family="AvenirNext-Bold, Avenir Next" font-size="19" font-weight="bold" fill="#000000" text-decoration="underline">
+            <text id="PR-Merged" font-family="AvenirNext-Bold, Avenir Next" font-size="19" font-weight="bold" fill="#000000" text-decoration="underline">
                 <tspan x="40.6215" y="31">PR </tspan>
-                <tspan x="22.7615" y="57">Merge</tspan>
+                <tspan x="16.5105" y="57">Merged</tspan>
             </text>
             <text id="The-PR-is-approved," font-family="AvenirNext-Bold, Avenir Next" font-size="14" font-weight="bold" fill="#000000">
                 <tspan x="22.071" y="91">The PR is </tspan>
