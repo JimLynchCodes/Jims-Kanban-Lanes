@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="900px" viewBox="0 0 800 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Jims-Kanban-Lanes</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="46.8480901%" y1="-38.6233836%" x2="60.049405%" y2="125.685976%" id="linearGradient-1">
+            <stop stop-color="#F1ECFF" offset="0%"></stop>
+            <stop stop-color="#3A1CFF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="98" height="205" rx="7"></rect>
+        <rect id="path-3" x="0" y="0" width="98" height="205" rx="7"></rect>
+        <rect id="path-4" x="0" y="0" width="98" height="205" rx="7"></rect>
+        <rect id="path-5" x="0" y="0" width="98" height="205" rx="7"></rect>
+        <rect id="path-6" x="0" y="0" width="98" height="205" rx="7"></rect>
+        <rect id="path-7" x="0" y="0" width="98" height="205" rx="7"></rect>
+        <linearGradient x1="36.6909722%" y1="49.5522743%" x2="50%" y2="50.5244484%" id="linearGradient-8">
+            <stop stop-color="#F75B5B" stop-opacity="0.847546984" offset="0%"></stop>
+            <stop stop-color="#7B0000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="47.911995%" y1="-38.6233836%" x2="56.6572994%" y2="125.685976%" id="linearGradient-9">
+            <stop stop-color="#F1ECFF" offset="0%"></stop>
+            <stop stop-color="#FD6668" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-10" x="0" y="0" width="107" height="275" rx="7"></rect>
+        <rect id="path-11" x="0" y="0" width="107" height="275" rx="7"></rect>
+        <rect id="path-12" x="0" y="0" width="107" height="275" rx="7"></rect>
+        <rect id="path-13" x="0" y="0" width="107" height="275" rx="7"></rect>
+        <rect id="path-14" x="0" y="0" width="107" height="275" rx="7"></rect>
+        <rect id="path-15" x="1.13686838e-13" y="0" width="107" height="275" rx="7"></rect>
+        <rect id="path-16" x="1.13686838e-13" y="0" width="107" height="275" rx="7"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#979797" fill="#FCFCFC" x="0.5" y="0.5" width="799" height="899"></rect>
+        <text id="--Icebox" fill="#000000" font-family="AvenirNext-Bold, Avenir Next" font-size="27" font-weight="bold">
+            <tspan x="71" y="138">-  I</tspan>
+            <tspan x="101.888" y="138">cebox</tspan>
+        </text>
+        <text id="--To-Do’s" fill="#000000" font-family="AvenirNext-Bold, Avenir Next" font-size="27" font-weight="bold">
+            <tspan x="71" y="173">-  To-Do</tspan>
+            <tspan x="169.577" y="173">’s</tspan>
+        </text>
+        <text id="--In-Progress" fill="#000000" font-family="AvenirNext-Bold, Avenir Next" font-size="27" font-weight="bold">
+            <tspan x="71" y="207">-  In Progress</tspan>
+        </text>
+        <text id="--Review" fill="#000000" font-family="AvenirNext-Bold, Avenir Next" font-size="27" font-weight="bold">
+            <tspan x="71" y="239">-  Review</tspan>
+        </text>
+        <text id="--Done" fill="#000000" font-family="AvenirNext-Bold, Avenir Next" font-size="27" font-weight="bold">
+            <tspan x="71" y="272">-  Done</tspan>
+        </text>
+        <text id="--Live" fill="#000000" font-family="AvenirNext-Bold, Avenir Next" font-size="27" font-weight="bold">
+            <tspan x="71" y="305">-  Live</tspan>
+        </text>
+        <text id="Jim’s-Kanban-Lanes" fill="#000000" font-family="AvenirNext-Bold, Avenir Next" font-size="59" font-weight="bold">
+            <tspan x="26.1055" y="82">Jim’s Kanban Lanes</tspan>
+        </text>
+        <text id="ITIRDL" fill="#000000" font-family="AvenirNext-Bold, Avenir Next" font-size="72" font-weight="bold" letter-spacing="5.2">
+            <tspan x="376.42" y="195">ITIRDL</tspan>
+        </text>
+        <text id="Pronounced-“it---err" fill="#000000" font-family="AvenirNext-BoldItalic, Avenir Next" font-size="33" font-style="italic" font-weight="bold">
+            <tspan x="295.04" y="269">Pronounced “it - err - dill”</tspan>
+        </text>
+        <text id="ITIRDL" fill="#000000" font-family="AvenirNext-Bold, Avenir Next" font-size="27" font-weight="bold" line-spacing="34" letter-spacing="-1.2">
+            <tspan x="41.807" y="137">I</tspan>
+            <tspan x="38.2565" y="171">T</tspan>
+            <tspan x="41.807" y="205">I</tspan>
+            <tspan x="38" y="239">R</tspan>
+            <tspan x="38" y="273">D</tspan>
+            <tspan x="38.999" y="307">L</tspan>
+        </text>
+        <g id="Kanban-Columns" transform="translate(73.000000, 343.000000)">
+            <g id="Kanban-Column">
+                <g id="Rectangle">
+                    <rect stroke="#180AA0" stroke-linejoin="square" fill="url(#linearGradient-1)" fill-rule="evenodd" x="0.5" y="0.5" width="97" height="204" rx="7"></rect>
+                    <use stroke="#5D47FA" xlink:href="#path-2"></use>
+                </g>
+                <text id="Icebox" font-family="AvenirNext-Bold, Avenir Next" font-size="19" font-weight="bold" fill="#000000" text-decoration="underline">
+                    <tspan x="17.6263248" y="52">Icebox</tspan>
+                </text>
+                <text id="Stories-for-future-s" font-family="AvenirNext-BoldItalic, Avenir Next" font-size="14" font-style="italic" font-weight="bold" fill="#000000">
+                    <tspan x="14.4233248" y="89.625">Stories for </tspan>
+                    <tspan x="28.4373248" y="108.625">future </tspan>
+                    <tspan x="24.0273248" y="127.625">sprints.</tspan>
+                </text>
+            </g>
+            <g id="Kanban-Column-Copy" transform="translate(108.000000, 0.000000)">
+                <g id="Rectangle">
+                    <rect stroke="#180AA0" stroke-linejoin="square" fill="url(#linearGradient-1)" fill-rule="evenodd" x="0.5" y="0.5" width="97" height="204" rx="7"></rect>
+                    <use stroke="#5D47FA" xlink:href="#path-3"></use>
+                </g>
+                <text id="To-Do’s" fill="#000000" font-family="AvenirNext-Bold, Avenir Next" font-size="19" font-weight="bold" text-decoration="underline">
+                    <tspan x="14.8428248" y="53">To-Do’s</tspan>
+                </text>
+                <text id="Stories-for-this-spr" font-family="AvenirNext-Bold, Avenir Next" font-size="14" font-weight="bold" fill="#000000">
+                    <tspan x="13.8493248" y="88.25">Stories for </tspan>
+                    <tspan x="12.9743248" y="107.25">this sprint.</tspan>
+                </text>
+            </g>
+            <g id="Kanban-Column-Copy-2" transform="translate(217.000000, 0.000000)">
+                <g id="Rectangle">
+                    <rect stroke="#180AA0" stroke-linejoin="square" fill="url(#linearGradient-1)" fill-rule="evenodd" x="0.5" y="0.5" width="97" height="204" rx="7"></rect>
+                    <use stroke="#5D47FA" xlink:href="#path-4"></use>
+                </g>
+                <text id="In-Progress" font-family="AvenirNext-Bold, Avenir Next" font-size="19" font-weight="bold" fill="#000000" text-decoration="underline">
+                    <tspan x="40.127" y="27">In </tspan>
+                    <tspan x="9.2615" y="53">Progress</tspan>
+                </text>
+                <text id="Stories-that-have-be" font-family="AvenirNext-Bold, Avenir Next" font-size="14" font-weight="bold" fill="#000000">
+                    <tspan x="10.388" y="85.75">Stories that </tspan>
+                    <tspan x="13.559" y="104.75">have been </tspan>
+                    <tspan x="11.795" y="123.75">started but </tspan>
+                    <tspan x="12.635" y="142.75">are not yet </tspan>
+                    <tspan x="19.46" y="161.75">finished.</tspan>
+                </text>
+            </g>
+            <g id="Kanban-Column-Copy-3" transform="translate(327.000000, 0.000000)">
+                <g id="Rectangle">
+                    <rect stroke="#180AA0" stroke-linejoin="square" fill="url(#linearGradient-1)" fill-rule="evenodd" x="0.5" y="0.5" width="97" height="204" rx="7"></rect>
+                    <use stroke="#5D47FA" xlink:href="#path-5"></use>
+                </g>
+                <text id="Review" fill="#000000" font-family="AvenirNext-Bold, Avenir Next" font-size="19" font-weight="bold" text-decoration="underline">
+                    <tspan x="14.8048248" y="54">Review</tspan>
+                </text>
+                <text id="Stories-that-are-in" fill="#000000" font-family="AvenirNext-Bold, Avenir Next" font-size="14" font-weight="bold">
+                    <tspan x="10.1743248" y="84">Stories that </tspan>
+                    <tspan x="11.3993248" y="103">are in code </tspan>
+                    <tspan x="12.3933248" y="122">review but </tspan>
+                    <tspan x="24.9513248" y="141">not yet </tspan>
+                    <tspan x="20.0163248" y="160">merged.</tspan>
+                </text>
+            </g>
+            <g id="Kanban-Column-Copy-4" transform="translate(436.000000, 0.000000)">
+                <g id="Rectangle">
+                    <rect stroke="#180AA0" stroke-linejoin="square" fill="url(#linearGradient-1)" fill-rule="evenodd" x="0.5" y="0.5" width="97" height="204" rx="7"></rect>
+                    <use stroke="#5D47FA" xlink:href="#path-6"></use>
+                </g>
+                <text id="Done" fill="#000000" font-family="AvenirNext-Bold, Avenir Next" font-size="19" font-weight="bold" text-decoration="underline">
+                    <tspan x="23.9153248" y="53">Done</tspan>
+                </text>
+                <text id="PR-is-merged,-code-i" font-family="AvenirNext-Bold, Avenir Next" font-size="14" font-weight="bold" fill="#000000">
+                    <tspan x="32.5393248" y="84">PR is </tspan>
+                    <tspan x="20.2263248" y="103">merged, </tspan>
+                    <tspan x="10.8883248" y="122">code is live </tspan>
+                    <tspan x="23.2503248" y="141">in dev / </tspan>
+                    <tspan x="21.2203248" y="160">staging.</tspan>
+                </text>
+            </g>
+            <g id="Kanban-Column-Copy-5" transform="translate(544.000000, 0.000000)">
+                <g id="Rectangle">
+                    <rect stroke="#180AA0" stroke-linejoin="square" fill="url(#linearGradient-1)" fill-rule="evenodd" x="0.5" y="0.5" width="97" height="204" rx="7"></rect>
+                    <use stroke="#5D47FA" xlink:href="#path-7"></use>
+                </g>
+                <text id="Live" fill="#000000" font-family="AvenirNext-Bold, Avenir Next" font-size="19" font-weight="bold" text-decoration="underline">
+                    <tspan x="29.9288248" y="53">Live</tspan>
+                </text>
+                <text id="Code-for-story-has-b" fill="#000000" font-family="AvenirNext-Bold, Avenir Next" font-size="14" font-weight="bold">
+                    <tspan x="19.3023248" y="84">Code for </tspan>
+                    <tspan x="18.3783248" y="103">story has </tspan>
+                    <tspan x="31.5173248" y="122">been </tspan>
+                    <tspan x="14.7103248" y="141">pushed to </tspan>
+                    <tspan x="30.4113248" y="160">prod.</tspan>
+                </text>
+            </g>
+        </g>
+        <path id="Line" d="M56,591.5 L26,591.5 L26,579.5 L56,579.5 L56,553.5 L120,585.5 L56,617.5 L56,591.5 Z" fill="url(#linearGradient-8)" fill-rule="nonzero"></path>
+        <path id="Line" d="M168,591.5 L138,591.5 L138,579.5 L168,579.5 L168,553.5 L232,585.5 L168,617.5 L168,591.5 Z" fill="url(#linearGradient-8)" fill-rule="nonzero"></path>
+        <path id="Line" d="M280,591.5 L250,591.5 L250,579.5 L280,579.5 L280,553.5 L344,585.5 L280,617.5 L280,591.5 Z" fill="url(#linearGradient-8)" fill-rule="nonzero"></path>
+        <path id="Line" d="M386,591.5 L356,591.5 L356,579.5 L386,579.5 L386,553.5 L450,585.5 L386,617.5 L386,591.5 Z" fill="url(#linearGradient-8)" fill-rule="nonzero"></path>
+        <path id="Line" d="M492,591.5 L462,591.5 L462,579.5 L492,579.5 L492,553.5 L556,585.5 L492,617.5 L492,591.5 Z" fill="url(#linearGradient-8)" fill-rule="nonzero"></path>
+        <path id="Line" d="M604,591.5 L574,591.5 L574,579.5 L604,579.5 L604,553.5 L668,585.5 L604,617.5 L604,591.5 Z" fill="url(#linearGradient-8)" fill-rule="nonzero"></path>
+        <path id="Line" d="M56,591.5 L26,591.5 L26,579.5 L56,579.5 L56,553.5 L120,585.5 L56,617.5 L56,591.5 Z" fill="url(#linearGradient-8)" fill-rule="nonzero"></path>
+        <path id="Line" d="M713,591.5 L683,591.5 L683,579.5 L713,579.5 L713,553.5 L777,585.5 L713,617.5 L713,591.5 Z" fill="url(#linearGradient-8)" fill-rule="nonzero"></path>
+        <g id="Story-Move-Column" transform="translate(12.000000, 614.000000)">
+            <g id="Rectangle">
+                <rect stroke="#180AA0" stroke-linejoin="square" fill="url(#linearGradient-9)" fill-rule="evenodd" x="0.5" y="0.5" width="106" height="274" rx="7"></rect>
+                <use stroke="#5D47FA" xlink:href="#path-10"></use>
+            </g>
+            <text id="Story-Is-Created" font-family="AvenirNext-BoldItalic, Avenir Next" font-size="19" font-style="italic" font-weight="bold" fill="#000000" text-decoration="underline">
+                <tspan x="17.0615" y="31"> Story Is </tspan>
+                <tspan x="17.014" y="57">Created</tspan>
+            </text>
+            <text id="Product-has-a-(prefe" font-family="AvenirNext-BoldItalic, Avenir Next" font-size="14" font-style="italic" font-weight="bold" fill="#000000">
+                <tspan x="13.272" y="91">Product has </tspan>
+                <tspan x="9.478" y="110">a (preferably </tspan>
+                <tspan x="8.323" y="129">data-backed) </tspan>
+                <tspan x="10.402" y="148">idea for new </tspan>
+                <tspan x="26.439" y="167">feature.</tspan>
+            </text>
+        </g>
+        <g id="Story-Move-Column-Copy" transform="translate(123.000000, 614.000000)">
+            <g id="Rectangle">
+                <rect stroke="#180AA0" stroke-linejoin="square" fill="url(#linearGradient-9)" fill-rule="evenodd" x="0.5" y="0.5" width="106" height="274" rx="7"></rect>
+                <use stroke="#5D47FA" xlink:href="#path-11"></use>
+            </g>
+            <text id="Selected-For-Sprint" font-family="AvenirNext-BoldItalic, Avenir Next" font-size="19" font-style="italic" font-weight="bold" fill="#000000" text-decoration="underline">
+                <tspan x="15.4705" y="31">Selected </tspan>
+                <tspan x="11.595" y="57" font-size="18">For </tspan>
+                <tspan x="43.419" y="57">Sprint</tspan>
+            </text>
+            <text id="Product-and-engineer" font-family="AvenirNext-BoldItalic, Avenir Next" font-size="14" font-style="italic" font-weight="bold" fill="#000000">
+                <tspan x="11.928" y="91">Product and </tspan>
+                <tspan x="11.305" y="110">engineering </tspan>
+                <tspan x="20.86" y="129">decide to </tspan>
+                <tspan x="25.032" y="148">work on </tspan>
+                <tspan x="27.664" y="167">story in </tspan>
+                <tspan x="24.08" y="186">iteration </tspan>
+                <tspan x="20.258" y="205">planning.</tspan>
+            </text>
+        </g>
+        <g id="Story-Move-Column-Copy-2" transform="translate(234.000000, 614.000000)">
+            <g id="Rectangle">
+                <rect stroke="#180AA0" stroke-linejoin="square" fill="url(#linearGradient-9)" fill-rule="evenodd" x="0.5" y="0.5" width="106" height="274" rx="7"></rect>
+                <use stroke="#5D47FA" xlink:href="#path-12"></use>
+            </g>
+            <text id="Work-Begins" font-family="AvenirNext-Bold, Avenir Next" font-size="19" font-weight="bold" fill="#000000" text-decoration="underline">
+                <tspan x="28.186" y="31">Work </tspan>
+                <tspan x="21.6215" y="57">Begins</tspan>
+            </text>
+            <text id="An-engineer-or-pair" font-family="AvenirNext-Bold, Avenir Next" font-size="14" font-weight="bold" fill="#000000">
+                <tspan x="10.745" y="90">An engineer </tspan>
+                <tspan x="30.149" y="109">or pair </tspan>
+                <tspan x="10.514" y="128">selects story </tspan>
+                <tspan x="13.678" y="147">to work on.</tspan>
+            </text>
+        </g>
+        <g id="Story-Move-Column-Copy-3" transform="translate(346.000000, 614.000000)">
+            <g id="Rectangle">
+                <rect stroke="#180AA0" stroke-linejoin="square" fill="url(#linearGradient-9)" fill-rule="evenodd" x="0.5" y="0.5" width="106" height="274" rx="7"></rect>
+                <use stroke="#5D47FA" xlink:href="#path-13"></use>
+            </g>
+            <text id="PR-Opened" font-family="AvenirNext-Bold, Avenir Next" font-size="19" font-weight="bold" fill="#000000" text-decoration="underline">
+                <tspan x="40.6215" y="31">PR</tspan>
+                <tspan x="15.247" y="57">Opened</tspan>
+            </text>
+            <text id="The-engineer-or-pair" font-family="AvenirNext-Bold, Avenir Next" font-size="14" font-weight="bold" fill="#000000">
+                <tspan x="40.068" y="92">The </tspan>
+                <tspan x="12.964" y="111">engineer or </tspan>
+                <tspan x="11.207" y="130">pair finishes </tspan>
+                <tspan x="22.197" y="149">the work </tspan>
+                <tspan x="13.601" y="168">and creates </tspan>
+                <tspan x="33.719" y="187">a pull </tspan>
+                <tspan x="18.571" y="206">request in </tspan>
+                <tspan x="11.256" y="225">the “dev” CI </tspan>
+                <tspan x="27.013" y="244">branch.</tspan>
+            </text>
+        </g>
+        <g id="Story-Move-Column-Copy-4" transform="translate(458.000000, 614.000000)">
+            <g id="Rectangle">
+                <rect stroke="#180AA0" stroke-linejoin="square" fill="url(#linearGradient-9)" fill-rule="evenodd" x="0.5" y="0.5" width="106" height="274" rx="7"></rect>
+                <use stroke="#5D47FA" xlink:href="#path-14"></use>
+            </g>
+            <text id="PR-Merge" font-family="AvenirNext-Bold, Avenir Next" font-size="19" font-weight="bold" fill="#000000" text-decoration="underline">
+                <tspan x="40.6215" y="31">PR </tspan>
+                <tspan x="22.7615" y="57">Merge</tspan>
+            </text>
+            <text id="The-PR-is-approved," font-family="AvenirNext-Bold, Avenir Next" font-size="14" font-weight="bold" fill="#000000">
+                <tspan x="22.071" y="91">The PR is </tspan>
+                <tspan x="17.633" y="110">approved, </tspan>
+                <tspan x="9.31" y="129">merged, and </tspan>
+                <tspan x="16.492" y="148">CI deploys </tspan>
+                <tspan x="8.253" y="167">to dev, and if </tspan>
+                <tspan x="9.94" y="186">tests against </tspan>
+                <tspan x="27.223" y="205">dev are </tspan>
+                <tspan x="21.665" y="224">sucessful </tspan>
+                <tspan x="16.562" y="243">deploys to </tspan>
+                <tspan x="24.934" y="262">staging.</tspan>
+            </text>
+        </g>
+        <g id="Story-Move-Column-Copy-5" transform="translate(570.000000, 614.000000)">
+            <g id="Rectangle">
+                <rect stroke="#180AA0" stroke-linejoin="square" fill="url(#linearGradient-9)" fill-rule="evenodd" x="0.5" y="0.5" width="106" height="274" rx="7"></rect>
+                <use stroke="#5D47FA" xlink:href="#path-15"></use>
+            </g>
+            <text id="Promoted-To-Prod" font-family="AvenirNext-Bold, Avenir Next" font-size="19" font-weight="bold" fill="#000000" text-decoration="underline">
+                <tspan x="8.0045" y="31">Promoted </tspan>
+                <tspan x="18.996" y="57">To Prod</tspan>
+            </text>
+            <text id="Product-and-/-or-man" font-family="AvenirNext-Bold, Avenir Next" font-size="14" font-weight="bold" fill="#000000">
+                <tspan x="26.222" y="91">Product </tspan>
+                <tspan x="26.019" y="110">and / or </tspan>
+                <tspan x="14.686" y="129">manual QA </tspan>
+                <tspan x="18.606" y="148">engineers </tspan>
+                <tspan x="32.802" y="167">check </tspan>
+                <tspan x="12.404" y="186">staging and </tspan>
+                <tspan x="9.191" y="205">push back to </tspan>
+                <tspan x="16.387" y="224">“To-Do” or </tspan>
+                <tspan x="14.385" y="243">promote to </tspan>
+                <tspan x="34.125" y="262">prod.</tspan>
+            </text>
+        </g>
+        <g id="Story-Move-Column-Copy-6" transform="translate(682.000000, 614.000000)">
+            <g id="Rectangle">
+                <rect stroke="#180AA0" stroke-linejoin="square" fill="url(#linearGradient-9)" fill-rule="evenodd" x="0.5" y="0.5" width="106" height="274" rx="7"></rect>
+                <use stroke="#5D47FA" xlink:href="#path-16"></use>
+            </g>
+            <text id="Story-Removed" font-family="AvenirNext-Bold, Avenir Next" font-size="19" font-weight="bold" fill="#000000" text-decoration="underline">
+                <tspan x="28.256" y="31">Story </tspan>
+                <tspan x="8.572" y="57">Removed</tspan>
+            </text>
+            <text id="Once-story-is-sucess" font-family="AvenirNext-Bold, Avenir Next" font-size="14" font-weight="bold" fill="#000000">
+                <tspan x="8.589" y="91">Once story is </tspan>
+                <tspan x="15.61" y="110">sucessfully </tspan>
+                <tspan x="17.948" y="129">verified in </tspan>
+                <tspan x="21.49" y="148">prod, the </tspan>
+                <tspan x="11.347" y="167">story can be </tspan>
+                <tspan x="22.043" y="186">removed </tspan>
+                <tspan x="23.569" y="205">from the </tspan>
+                <tspan x="26.446" y="224">Kanban </tspan>
+                <tspan x="30.149" y="243">board.</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
