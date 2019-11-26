@@ -1,7 +1,7 @@
 # Jims-Kanban-Lanes
 This repo contains the artwork files for My Kanban Lanes poster: 
 
-<img src="./jims-kanban-lanes.png" width="500px" />
+<img src="./Jims-Kanban-Lanes.png" width="500px" />
 
 <br/>
 
